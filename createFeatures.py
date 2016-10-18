@@ -4,6 +4,7 @@ Date: April 2016
 Purpose: This script is used to by the shellfish unit to create an ArcGIS feature
 class from the Shellfish management database information.
     
+This is licensed under the terms of the MIT-license.
 """
 def aquacultureCreateConnection():
     
